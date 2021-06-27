@@ -1,2 +1,2 @@
-# HTML-CSS-
-HTML+CSS实战小项目
+# HTML-CSS-JS
+HTML+CSS+JS练手项目
